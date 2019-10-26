@@ -52,7 +52,7 @@
   "dependencies": {
     "@aws-amplify/core": "^1.0.23-unstable.0",
     "@types/zen-observable": "^0.5.3",
-    "uuid": "^3.2.1",
+    "uuid": "^3.3.3",
     "zen-observable": "^0.8.6"
   },
   "jest": {
